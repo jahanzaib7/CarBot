@@ -19,20 +19,6 @@ CarBot is a cutting-edge automotive technology platform designed to revolutioniz
 - **User Feedback**: Collect and display user testimonials and feedback.
 - **Responsive Design**: Fully responsive design using Bootstrap 5.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/carbot.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd carbot
-   ```
-
-3. Open `index.html` in your preferred web browser to view the site.
-
 ## Usage
 
 - **Navbar**: Navigate through different sections of the site using the navbar.
@@ -56,4 +42,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or feedback, please contact us at [email@example.com](mailto:email@example.com).
+For questions or feedback, please contact us at [jahanzaibjk9@gmail.com](mailto:jahanzaibjk9@gmail.com).
