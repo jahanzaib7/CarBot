@@ -1,5 +1,4 @@
-Link: https://maria-clothing.netlify.app/
-CarBot - Future of Automotive Technology
+Link: https://digitalxposure.netlify.app/
 
 CarBot is a cutting-edge automotive technology platform designed to revolutionize the way people interact with their vehicles. By seamlessly integrating AI, robotics, and human-centric design, CarBot aims to redefine the driving experience.
 
