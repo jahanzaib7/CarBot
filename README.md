@@ -1,3 +1,4 @@
+
 Link: https://digitalxposure.netlify.app/
 
 CarBot is a cutting-edge automotive technology platform designed to revolutionize the way people interact with their vehicles. By seamlessly integrating AI, robotics, and human-centric design, CarBot aims to redefine the driving experience.
@@ -43,3 +44,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For questions or feedback, please contact us at [jahanzaibjk9@gmail.com](mailto:jahanzaibjk9@gmail.com).
+
+![{8FEA916E-73F2-4D62-9019-9AD350738DC7}](https://github.com/user-attachments/assets/30c0f5be-3335-4dc8-955c-f9a8e49dd20c)
+
